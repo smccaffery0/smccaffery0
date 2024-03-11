@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smccaffery0
 - 👀 I’m interested in Game developement.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently in school.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me svmccaffery@wpi.edu
 
