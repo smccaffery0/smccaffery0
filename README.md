@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @smccaffery0
 - 👀 I’m interested pentesting.
-- 🌱 I’m currently a senior at WPI.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me svmccaffery@wpi.edu
+- 📫 How to reach me smccaffery12345@gmail.com
 
 <!---
 smccaffery0/smccaffery0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
